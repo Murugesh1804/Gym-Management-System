@@ -1,0 +1,181 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 150rem;
+}.register-jh9 {
+  box-sizing: border-box;
+  padding: 21.9rem 29.1rem 22rem 29.1rem;
+  width: 110%;
+  height: 108rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-1-bg-RcB.png');
+  background-color: rgba(171, 171, 171, 0.7200000286);
+}
+.register-jh9 .login-div-DcK {
+  box-sizing: border-box;
+  padding: 2.39rem 5.1rem 4.983rem 5rem;
+  width: 80%;
+  height: 100%;
+  align-items: center;
+  background-color: rgba(171, 171, 171, 0.7200000286);
+  border-radius: 1rem;
+}
+.register-jh9 .login-div-DcK .title-H6P {
+  margin: 0rem 0.6rem 2.364rem 0rem;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-jh9 .login-div-DcK .auto-group-ndmr-ihV {
+  margin-bottom: 2.4982rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.register-jh9 .login-div-DcK .auto-group-ndmr-ihV .mem-id-EQw {
+  margin-right: 2.9rem;
+  width: 36.4rem;
+  height: 5.9739rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.register-jh9 .login-div-DcK .auto-group-ndmr-ihV .gender-KxB {
+  width: 36.4rem;
+  height: 5.9739rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.register-jh9 .login-div-DcK .auto-group-cxhu-S1D {
+  margin-bottom: 2.4982rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.register-jh9 .login-div-DcK .auto-group-cxhu-S1D .name-xVM {
+  margin-right: 2.9rem;
+  width: 36.4rem;
+  height: 5.9739rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.register-jh9 .login-div-DcK .auto-group-cxhu-S1D .dob-qp3 {
+  width: 36.4rem;
+  height: 5.9739rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.register-jh9 .login-div-DcK .auto-group-a57d-jeX {
+  margin-bottom: 2.2288rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.register-jh9 .login-div-DcK .auto-group-a57d-jeX .address-rz3 {
+  margin-right: 2.9rem;
+  width: 36.4rem;
+  height: 5.9739rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.register-jh9 .login-div-DcK .auto-group-a57d-jeX .phno-Yrs {
+  width: 36.4rem;
+  height: 5.9739rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.register-jh9 .login-div-DcK .auto-group-5b5y-3od {
+  margin-bottom: 2.2245rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.register-jh9 .login-div-DcK .auto-group-5b5y-3od .state-9Ls {
+  margin-right: 2.9rem;
+  width: 36.4rem;
+  height: 5.9739rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.register-jh9 .login-div-DcK .auto-group-5b5y-3od .joining-date-3BM {
+  width: 33.4rem;
+  height: 5.9739rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+  padding: 0 15px;
+}
+.register-jh9 .login-div-DcK .auto-group-xvsf-wXd {
+  margin-bottom: 2.5276rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.register-jh9 .login-div-DcK .auto-group-xvsf-wXd .e-mail-GZu {
+  margin-right: 2.9rem;
+  width: 36.4rem;
+  height: 5.9739rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.register-jh9 .login-div-DcK .auto-group-xvsf-wXd .amount-BB5 {
+  width: 36.4rem;
+  height: 5.9739rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.register-jh9 .login-div-DcK .auto-group-zpdd-5GT {
+  width: 100%;
+  height: 6.517rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #5e5e5e;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+.register-jh9 .login-div-DcK .auto-group-zpdd-5GT:hover{
+  background-color: rgb(109, 109, 109);
+}

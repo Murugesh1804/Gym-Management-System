@@ -1,0 +1,85 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 150rem;
+}.login-BMZ {
+  box-sizing: border-box;
+  padding: 31.3rem 52rem 37rem 52rem;
+  width: 110%;
+  height: 108rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-1-bg.png');
+  background-color: #ffffff;
+}
+.login-BMZ .login-div-ZN7 {
+  box-sizing: border-box;
+  padding: 2.9rem 1.8rem 6.4rem 1.8rem;
+  width: 50rem;
+  height: 100%;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(171, 171, 171, 0.7200000286);
+  border-radius: 1rem;
+}
+.login-BMZ .login-div-ZN7 .title-UG7 {
+  margin: 0rem 0.1rem 2.7rem 0rem;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-BMZ .login-div-ZN7 .u-name-Ghm {
+  margin-bottom: 2.3rem;
+  width: 100%;
+  height: 5.5rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.login-BMZ .login-div-ZN7 .pswd-MjD {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 5.5rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.login-BMZ .login-div-ZN7 .auto-group-svib-rvs {
+  width: 100%;
+  height: 6rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #5e5e5e;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.login-BMZ .login-div-ZN7 .auto-group-svib-rvs:hover{
+  background-color: rgb(109, 109, 109);
+}

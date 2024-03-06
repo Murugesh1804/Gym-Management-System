@@ -1,0 +1,271 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.dashboard-7kB {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.dashboard-7kB .auto-group-uers-3Nw {
+  box-sizing: border-box;
+  padding: 28.1rem 11.1rem 28.2rem 7.3rem;
+  width: 40rem;
+  height: 108rem;
+  row-gap: 6.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #5e5e5e;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-uers-3Nw .dashboard-fv7 {
+  margin-right: 5.4rem;
+  width: calc(100% - 5.4rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-uers-3Nw .dashboard-fv7 .dash-b35 {
+  margin-right: 1.5rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-uers-3Nw .dashboard-fv7 .dashboard-tH5 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-uers-3Nw .registration-MwM {
+  margin-right: 4.2rem;
+  width: calc(100% - 4.2rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-uers-3Nw .registration-MwM .new-1-V1y {
+  margin-right: 1.5rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-uers-3Nw .registration-MwM .registration-zUX {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-uers-3Nw .members-tZu {
+  margin-right: 7.1rem;
+  width: calc(100% - 7.1rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-uers-3Nw .members-tZu .users-alt-1-18j {
+  margin-right: 1.5rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-uers-3Nw .members-tZu .members-6fy {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-uers-3Nw .plans-bsd {
+  margin-right: 11.2rem;
+  width: calc(100% - 11.2rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-uers-3Nw .plans-bsd .quote-right-1-8Mm {
+  margin-right: 1.5rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-uers-3Nw .plans-bsd .plans-pkP {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-uers-3Nw .routine-LTq {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-uers-3Nw .routine-LTq .calendar-clock-1-5gK {
+  margin-right: 1.5rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-uers-3Nw .routine-LTq .exercise-routine-naj {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-uers-3Nw .logout-gg7 {
+  margin-right: 9.8rem;
+  width: calc(100% - 9.8rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-uers-3Nw .logout-gg7 .sign-out-alt-1-okj {
+  margin-right: 1.5rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-uers-3Nw .logout-gg7 .logout-iMu {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-k1zf-bgb {
+  box-sizing: border-box;
+  padding: 18.2rem 18.3rem 25.6rem 6.8rem;
+  height: 108rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-k1zf-bgb .auto-group-gqdm-UkP {
+  margin-right: 5.8rem;
+  height: 100%;
+  row-gap: 4.1rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-k1zf-bgb .auto-group-gqdm-UkP .gym-dashboard-Beo {
+  margin-right: 9.4rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-k1zf-bgb .auto-group-gqdm-UkP .income-snX {
+  box-sizing: border-box;
+  padding: 3.5rem;
+  width: 30rem;
+  height: 25rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f56854;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-k1zf-bgb .auto-group-gqdm-UkP .new-mem-8Cf {
+  margin-left: 13.1rem;
+  box-sizing: border-box;
+  padding: 3.5rem 4.7rem 3.5rem 3.5rem;
+  height: 25rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #00c0ef;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-k1zf-bgb .auto-group-f6sh-9Nf {
+  margin-top: 10.1rem;
+  width: 30rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-k1zf-bgb .auto-group-f6sh-9Nf .tot-mem-1fm {
+  margin-bottom: 4.1rem;
+  box-sizing: border-box;
+  padding: 3.5rem 4.6rem 3.5rem 2.5rem;
+  width: 100%;
+  height: 25rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #00a65a;
+  flex-shrink: 0;
+}
+.dashboard-7kB .auto-group-k1zf-bgb .auto-group-f6sh-9Nf .plan-eCw {
+  box-sizing: border-box;
+  padding: 3.5rem 2.5rem;
+  width: 100%;
+  height: 25rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #0172b4;
+  flex-shrink: 0;
+}
